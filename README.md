@@ -152,7 +152,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="https://drive.google.com/file/d/INDIRA RESUME.docxausp=sharing" target="_blank" class="download-button">Download  INDIRA RESUME</a>
+            <a href="https://drive.google.com/file/d/INDIRA RESUME.docxausp=sharing" target="_blank" class="download-button">Download  Drive</a>
         </center>
         </div>
         
